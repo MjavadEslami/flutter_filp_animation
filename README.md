@@ -1,16 +1,13 @@
-# filp_widget
+# Page Flip Builder
 
-A new Flutter project.
+A custom Flutter widget that enables interactive page-flip transitions in your app.
 
-## Getting Started
+You can use this to flip images, cards, or widgets of any size.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Features
+- Interactive flip transition using drag gestures (forward and reverse)
+- Fling animation to complete the transition on drag release
+- Flip page programmatically via callbacks
+- Flip around the horizontal or vertical axis
+- Flip widgets of any size
+- Customizable flip duration, tilt, scale
